@@ -1,4 +1,4 @@
-# Rota Viva — Centro de Controle da Operação (Power BI)
+# Rota Viva - Centro de Controle da Operação (Power BI)
 
 Painel gerencial de logística que simula o centro de controle da operação de
 entregas de um marketplace. A proposta foi fugir do dashboard tradicional de
@@ -11,10 +11,7 @@ o olho e já sabe a saúde da operação pela cor, sem precisar ler número.
 
 ## 🎬 Demonstração
 
-<!-- ARRASTE O ARQUIVO rota-viva-demo.mp4 PARA ESTA LINHA (no editor do GitHub).
-     O GitHub vai substituir este comentário por um player de vídeo automático.
-     Apague esta linha de comentário depois que o vídeo aparecer. -->
-
+![Demonstração](rota-viva-demo.mp4)
 
 
 ## 📊 O painel
