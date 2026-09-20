@@ -11,7 +11,7 @@ o olho e já sabe a saúde da operação pela cor, sem precisar ler número.
 
 ## 🎬 Demonstração
 
-![Demonstração](https://github.com/user-attachments/assets/a634235b-a257-4b8f-a760-a72177303be6)
+https://github.com/user-attachments/assets/a634235b-a257-4b8f-a760-a72177303be6
 
 
 ## 📊 O painel
